@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.hecvatpro.com
+
+# Sitemaps
+Sitemap: https://www.hecvatpro.com/sitemap.xml

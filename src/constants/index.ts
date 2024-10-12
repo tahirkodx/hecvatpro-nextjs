@@ -1,0 +1,1 @@
+export { Content, BrandsList } from "./content";
